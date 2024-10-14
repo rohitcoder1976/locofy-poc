@@ -3,5 +3,6 @@
         "./components/ui/button.tsx",
         "./components/ui/checkbox.tsx",
         "./components/ui/searchInput.tsx"
-    ]
+    ],
+    "wrapper": "./components/Wrapper.tsx"
 }
